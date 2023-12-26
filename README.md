@@ -14,5 +14,5 @@
 **Goals:**
 <p>1 - Own password generator using HTML/CSS/JS - https://www.youtube.com/watch?v=i6t2jaRxos4</p>
 <p>2 - Developing a DeFi project - https://pt.w3d.community/paulogio/desenvolvimento-defi-em-blockchains-como-desenvolver-projetos-defi-322g</p>
-<p>3 - Translating do my portfolio - https://www.youtube.com/watch?v=wlsiP7QUX9M</p>
+<p>3 - Page translator to my portfolio - https://www.youtube.com/watch?v=wlsiP7QUX9M</p>
 

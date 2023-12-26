@@ -1,6 +1,7 @@
 # nav9programming_course
 ![Print screen from course](https://i.imgur.com/XuvPuS4.png)
-Nav9 programming course provided by Otterwise.
+<p></p>
+<p>Nav9 programming course provided by Otterwise.</p>
 
 [Link to course](https://plataforma.otterwise.co/courses/front-end-turma03111111/lectures/40813434).
 

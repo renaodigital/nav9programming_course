@@ -13,7 +13,5 @@ let numero2 = 3;
 let numero3 = 4;
 let somadosMaiores = numero3 + numero1;
 
-console.log ("A soma dos números maiores é" + message);
-
-
+console.log ("A soma dos números maiores é: " + somadosMaiores);
 

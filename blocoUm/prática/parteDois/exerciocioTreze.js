@@ -16,13 +16,13 @@
 
 let numero = 2
 let operacao1 = numero + 2;
-let operacao2 = numero - 1;
+let operacao2 = numero - 3;
 let
 
-if (operacao1 = 4) {
+if (operacao1 * 4) {
     console.log("Esse número é par");
 }
 
-if (operação = 1) {
+if (operação * 7) {
     console.log("Esse número é impar");
 }

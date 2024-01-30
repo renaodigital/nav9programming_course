@@ -3,3 +3,11 @@
 //  100, 50, 20, 10, 5, 2 e 1. A seguir mostre o valor lido e a relação de notas
 //  necessárias.
 //  OBS: Você irá utilizar parseInt(), pesquise a respeito.
+
+
+let stringNotas 100, 50, 20, 10, 5, 2, 1;
+let notasNecessarias = parseInt(stringNotas, 220);
+
+console.log(notasNecessarias);
+
+blocoUm\prática\parteDois\.js
